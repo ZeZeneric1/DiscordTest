@@ -1,0 +1,14 @@
+{
+	"name": "pointsbot",
+	"version": "0.0.1",
+	"author": "Blokev",
+	"description": "Group Management Bot",
+	"scripts": {
+		"start": "node bot.js"
+	},
+	"dependencies": {
+		"express": "^4.16.3",
+		"roblox-js": "^4.0.2",
+		"mongodb": "^3.0.5"
+	}
+}
